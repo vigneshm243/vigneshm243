@@ -23,4 +23,4 @@ I am Vignesh Muthukumaran, currenty working at Infosys as a Senior Software Engi
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshm243&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshm243&layout=compact)
