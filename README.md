@@ -1,1 +1,26 @@
-![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshm243&show_icons=true&hide=stars,contribs&theme=cobalt)
+#### Hello,
+
+I am Vignesh Muthukumaran, currenty working at Infosys as a Senior Software Engineer in Dubai.
+
+### I code in
+
+- Java
+- Python
+- JavaScript
+- C++
+
+### I work with
+
+- VS Code
+- ZSH
+- Intellij
+- Jupyer NoteBooks
+- Eclipse
+
+### GitHub Stats
+
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshm243&show_icons=true&theme=cobalt)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshm243&layout=compact)]
