@@ -14,12 +14,12 @@ I am Vignesh Muthukumaran, currenty working at Infosys as a Senior Software Engi
 - VS Code
 - ZSH
 - Intellij
-- Jupyer NoteBooks
+- Jupyter NoteBooks
 - Eclipse
 
 ### GitHub Stats
 
-![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshm243&show_icons=true&theme=cobalt)
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshm243&show_icons=true&theme=cobalt&hide=issues,contribs)
 
 ### Top Languages
 
