@@ -1,6 +1,6 @@
 #### Hello,
 
-I am Vignesh Muthukumaran, currenty working at Infosys as a Senior Software Engineer in Dubai.
+I am Vignesh Muthukumaran, currenty working at Infosys as a Senior Software Engineer in Chennai, India.
 
 ### I code in
 
